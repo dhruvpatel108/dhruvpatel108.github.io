@@ -57,7 +57,10 @@
       <link>https://dhruvpatel.github.io/post/circumventing_inverse_problem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dhruvpatel.github.io/post/circumventing_inverse_problem/</guid>
-      <description>&lt;p&gt;Summary: Breast ultrasound elastography is a non-invasive technique used by radiologists to help detect and diagnose cancer and other diseases by evaluating a lesion&amp;rsquo;s stiffness in a non-invasive way. Researchers identified the critical role machine learning can play in making this technique more efficient and accurate in diagnosis.&lt;/p&gt;
+      <description>&lt;p&gt;title = &amp;ldquo;How&amp;rdquo;
+Date = &amp;ldquo;2019-07-12&amp;rdquo;
+Draft=false&lt;/p&gt;
+&lt;p&gt;Summary: Breast ultrasound elastography is a non-invasive technique used by radiologists to help detect and diagnose cancer and other diseases by evaluating a lesion&amp;rsquo;s stiffness in a non-invasive way. Researchers identified the critical role machine learning can play in making this technique more efficient and accurate in diagnosis.&lt;/p&gt;
 &lt;p&gt;Breast cancer is the leading cause of cancer-related death among women. It is also difficult to diagnose. Nearly one in 10 cancers is misdiagnosed as not cancerous, meaning that a patient can lose critical treatment time. On the other hand, the more mammograms a woman has, the more likely it is she will see a false positive result. After 10 years of annual mammograms, roughly two out of three patients who do not have cancer will be told that they do and be subjected to an invasive intervention, most likely a biopsy.&lt;/p&gt;
 &lt;p&gt;Breast ultrasound elastography is an emerging imaging technique that provides information about a potential breast lesion by evaluating its stiffness in a non-invasive way. Using more precise information about the characteristics of a cancerous versus non-cancerous breast lesion, this methodology has demonstrated more accuracy compared to traditional modes of imaging.&lt;/p&gt;
 &lt;p&gt;At the crux of this procedure, however, is a complex computational problem that can be time-consuming and cumbersome to solve. But what if instead we relied on the guidance of an algorithm?&lt;/p&gt;
