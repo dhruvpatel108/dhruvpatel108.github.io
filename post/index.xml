@@ -5,7 +5,7 @@
     <link>https://dhruvpatel.github.io/post/</link>
       <atom:link href="https://dhruvpatel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 23:11:21 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://dhruvpatel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,9 +13,18 @@
     </image>
     
     <item>
-      <title>Shree Swaminarayano Vijaytetaram</title>
+      <title></title>
+      <link>https://dhruvpatel.github.io/post/jay-swaminarayan2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dhruvpatel.github.io/post/jay-swaminarayan2/</guid>
+      <description>&lt;p&gt;Jay Swaminarayan!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://dhruvpatel.github.io/post/swaminarayan/</link>
-      <pubDate>Fri, 08 May 2020 23:11:21 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dhruvpatel.github.io/post/swaminarayan/</guid>
       <description>&lt;p&gt;Shri Swaminarayan Bhagawani ni Jay!&lt;br&gt;
 Shri Harikrishna Maharaj ni Jay!&lt;br&gt;
@@ -47,15 +56,6 @@ Shyaamam shitam, dwibhujame vachaturbhujam chah:,&lt;br&gt;
 tvam Bhakti Dharmam tanayam sharanam prapadhyey ||&lt;/p&gt;
 &lt;p&gt;Jay Swaminarayan! Aa website nu khat-muhart ane udghatan ane mangalacharan Swayam Purna Purushottam Bhagawan Shri Swaminarayan e Swayam e emni amidrashti ane shakti thi Samvat 2076 Vaisakh Vad ekam (1) na Shri Radharaman Dev na patotsav ne subh dine emni marji ane rajipa walu swadharma, gyan, vyragya, ane bhakti walu jivan jivine emne raji kari sakay evi krupa emna j das dhruv bhagat par kari che.&lt;/p&gt;
 &lt;p&gt;Jay Swaminarayan!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dhruvpatel.github.io/post/jay-swaminarayan2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dhruvpatel.github.io/post/jay-swaminarayan2/</guid>
-      <description>&lt;p&gt;Jay Swaminarayan!&lt;/p&gt;
 </description>
     </item>
     
