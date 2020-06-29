@@ -36,18 +36,10 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;: Breast ultrasound elastography is a non-invasive technique used by radiologists to help detect and diagnose cancer and other diseases by evaluating a lesion&amp;rsquo;s stiffness in a non-invasive way. Researchers identified the critical role machine learning can play in making this technique more efficient and accurate in diagnosis.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://dhruvpatel.github.io/static/featured.png&#34; alt=&#34;Featured image&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Jay Shree Swaminarayn&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;#&lt;img src=&#34;https://dhruvpatel.github.io/static/featured.png&#34; alt=&#34;Featured image&#34;&gt;
+#| :&amp;ndash;: |
+#| Jay Shree Swaminarayn |
+#image = featured.png&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a copy of an article that was first published by 
 &lt;a href=&#34;https://viterbischool.usc.edu/news/2019/07/addressing-the-urgent-need-for-early-and-accurate-tools-in-diagnosing-and-treating-cancer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USC News&lt;/a&gt; and was later highlighted by various science news and media outlets such as 
 &lt;a href=&#34;https://www.sciencedaily.com/releases/2019/07/190712151928.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Daily&lt;/a&gt;, 
