@@ -31,8 +31,16 @@
     <item>
       <title>GAN Priors for Bayesian Inference</title>
       <link>https://dhruvpatel.github.io/publication/neurips19/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 -0700</pubDate>
       <guid>https://dhruvpatel.github.io/publication/neurips19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circumventing the Solution of Inverse Problems in Mechanics through Deep Learning: Application to Elasticity Imaging</title>
+      <link>https://dhruvpatel.github.io/publication/cmame/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/cmame/</guid>
       <description></description>
     </item>
     
@@ -74,14 +82,6 @@
 &lt;p&gt;Because cancer causes different types of changes in the tissue it impacts, the presence of cancer in a tissue can ultimately lead to a change in its physical properties, for example a change in density or porosity. These changes can be discerned as a signal in medical images. The role of the machine learning algorithm is to pick out this signal and use it to determine whether a given tissue that is being imaged is cancerous.&lt;/p&gt;
 &lt;p&gt;Using these ideas, Oberai and his team are working with Vinay Duddalwar, professor of clinical radiology at the Keck School of Medicine of USC, to better diagnose renal cancer through contrast enhanced CT images. Using the principles identified in training the machine learning algorithm for breast cancer diagnosis, they are looking to train the algorithm on other features that might be prominently displayed in renal cancer cases, such as changes in tissue that reflect cancer-specific changes in a patient&amp;rsquo;s microvasculature, the network of microvessels that help distribute blood within tissues.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Circumventing the Solution of Inverse Problems in Mechanics through Deep Learning: Application to Elasticity Imaging</title>
-      <link>https://dhruvpatel.github.io/publication/cmame/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 -0700</pubDate>
-      <guid>https://dhruvpatel.github.io/publication/cmame/</guid>
-      <description></description>
     </item>
     
     <item>
