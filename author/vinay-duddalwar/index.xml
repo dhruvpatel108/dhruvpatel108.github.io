@@ -5,7 +5,7 @@
     <link>https://dhruvpatel.github.io/author/vinay-duddalwar/</link>
       <atom:link href="https://dhruvpatel.github.io/author/vinay-duddalwar/index.xml" rel="self" type="application/rss+xml" />
     <description>Vinay Duddalwar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0800</lastBuildDate>
     <image>
       <url>https://dhruvpatel.github.io/images/icon_hu9a33a9b5f3bd8612892cd774c0dbb718_62226_512x512_fill_lanczos_center_2.png</url>
       <title>Vinay Duddalwar</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Probabilistic Recovery of Missing Phase Images in Contrast-Enhanced CT</title>
-      <link>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 -0700</pubDate>
-      <guid>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</guid>
+      <title>Machine Learning Based Predictors for COVID-19 Disease Severity</title>
+      <link>https://dhruvpatel.github.io/publication/scientific-reports/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0800</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/scientific-reports/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning Based Predictors for COVID-19 Disease Severity</title>
-      <link>https://dhruvpatel.github.io/publication/scientific-reports/</link>
-      <pubDate>Thu, 17 Sep 2020 00:00:00 -0700</pubDate>
-      <guid>https://dhruvpatel.github.io/publication/scientific-reports/</guid>
+      <title>Probabilistic Recovery of Missing Phase Images in Contrast-Enhanced CT</title>
+      <link>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</guid>
       <description></description>
     </item>
     
