@@ -5,12 +5,28 @@
     <link>https://dhruvpatel.github.io/author/assad-oberai/</link>
       <atom:link href="https://dhruvpatel.github.io/author/assad-oberai/index.xml" rel="self" type="application/rss+xml" />
     <description>Assad Oberai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://dhruvpatel.github.io/images/icon_hu9a33a9b5f3bd8612892cd774c0dbb718_62226_512x512_fill_lanczos_center_2.png</url>
       <title>Assad Oberai</title>
       <link>https://dhruvpatel.github.io/author/assad-oberai/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Inference in Physics-driven Problems with Adversarial Priors</title>
+      <link>https://dhruvpatel.github.io/publication/neurips20-inverse_problems/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/neurips20-inverse_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Recovery of Missing Phase Images in Contrast-Enhanced CT</title>
+      <link>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/neurips20-medical_imaging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning-based Detection, Classification, and Localization of Defects in Semiconductor Processes</title>

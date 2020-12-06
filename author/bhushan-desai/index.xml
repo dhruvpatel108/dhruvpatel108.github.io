@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhushan Desai | Dhruv Patel</title>
+    <link>https://dhruvpatel.github.io/author/bhushan-desai/</link>
+      <atom:link href="https://dhruvpatel.github.io/author/bhushan-desai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bhushan Desai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://dhruvpatel.github.io/images/icon_hu9a33a9b5f3bd8612892cd774c0dbb718_62226_512x512_fill_lanczos_center_2.png</url>
+      <title>Bhushan Desai</title>
+      <link>https://dhruvpatel.github.io/author/bhushan-desai/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Based Predictors for COVID-19 Disease Severity</title>
+      <link>https://dhruvpatel.github.io/publication/scientific-reports/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 -0700</pubDate>
+      <guid>https://dhruvpatel.github.io/publication/scientific-reports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
